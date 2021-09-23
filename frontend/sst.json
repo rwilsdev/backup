@@ -1,0 +1,6 @@
+{
+  "name": "nextjs-app",
+  "stage": "dev",
+  "region": "us-west-1",
+  "lint": true
+}
